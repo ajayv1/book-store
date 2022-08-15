@@ -1,4 +1,4 @@
-# Live Site Url - https://ajayv-react-simple-book-store.netlify.app/
+Live Site Url - https://ajayv-react-simple-book-store.netlify.app/
 
 A simple react book store 
 
